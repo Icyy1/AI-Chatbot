@@ -31,3 +31,7 @@ This bot is made using the discord.py library and utilizes Google's generative A
 ## Usage:
 #### the bot will reply to any message sent in the "chat" channel, assuming you have it setup correctly.
 #### I recommend you stick with the Gemini-1.5-flash because the free version is good enough for what it is and won't get rate limited from normal usage
+
+## Extra:
+#### please let me know if you encounter any issues or open a pull request if you would like to add something
+#### you can contact me on my discord: WayTooIcyy
