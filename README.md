@@ -29,6 +29,7 @@ This bot is made using the discord.py library and utilizes Google's generative A
 #### put any information you want the bot to know at the bottom of the config.yml, replacing "PUT INFORMATION HERE"
 
 ## Usage:
+#### run main.py on your computer or put it on a VPS
 #### the bot will reply to any message sent in the "chat" channel, assuming you have it setup correctly.
 #### I recommend you stick with the Gemini-1.5-flash because the free version is good enough for what it is and won't get rate limited from normal usage
 
