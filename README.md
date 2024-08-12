@@ -34,4 +34,4 @@ This bot is made using the discord.py library and utilizes Google's generative A
 
 ## Extra:
 #### please let me know if you encounter any issues or open a pull request if you would like to add something
-#### you can contact me on my discord: WayTooIcyy
+#### you can contact me on my discord: waytooicyy
