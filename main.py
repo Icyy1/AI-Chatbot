@@ -56,6 +56,6 @@ async def on_ready():
     emb.add_field(name="Time logged on:", value=f"{local_time} UTC", inline=False)
     emb.add_field(name="Host name:", value=device_name, inline=False)
     await lchannel.send(embed=emb)
-    await client.change_presence(activity=discord.Game(name="DM WayTooIcyy for issues!"))
+    await client.change_presence(activity=discord.Game(name="DM waytooicyy for issues!"))
 
 client.run(token)
